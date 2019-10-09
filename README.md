@@ -1,4 +1,4 @@
-**Purposes** : project of a doubly linked circular list for the exam of Algorithms and Data Structures of University of Florence Computer Science graduate course.
+**Purpose** : project of a doubly linked circular list for the exam of Algorithms and Data Structures of University of Florence Computer Science graduate course.
 
 
 # Dettagli Implementativi
