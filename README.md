@@ -51,7 +51,7 @@ Deve essere gestito anche il caso in cui il nodo cercato non sia presente.
  
 ### Osservazioni
 Si suggerisce di implementare una classe per il nodo e una per la struttura, dotandole di opportune variabili per gli scopi descritti sopra.
-Se la struttura contenesse un solo nodo (HEAD), il successivo eil precedente sono HEAD stesso.
+Se la struttura contenesse un solo nodo (HEAD), il successivo e il precedente sono HEAD stesso.
 Potranno essere necessari più metodi per realizzare le operazioni richieste.
 Non è richiesto un metodo main ma potrà esserlo durante la discussione.
 
